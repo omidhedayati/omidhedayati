@@ -149,16 +149,6 @@
       "desc": "http://jeejow.ir/",
       "price": 8.99,
       "foodType": "سایت"
-    },
-    {
-      "image": "http://www.bazi-land.com/myfiles/bl.png",
-      "background": 4284294418,
-      "foreground": 4294967295,
-      "name": "بازیلند ",
-      "starRating": 4.5,
-      "desc": "http://www.bazi-land.com/",
-      "price": 10,
-      "foodType": "سایت"
     }
   ]
 }

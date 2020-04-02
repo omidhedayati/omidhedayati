@@ -101,26 +101,6 @@
       "foodType": "انیمیشن"
     },
     {
-      "image": "http://www.bazi-land.com/myfiles/anim.jpg",
-      "background": 4283417632,
-      "foreground": 4278190080,
-      "name": "صنعتی ",
-      "starRating": 4.5,
-      "desc": "توضیحات",
-      "price": 10.99,
-      "foodType": "انیمیشن"
-    },
-    {
-      "image": "http://www.bazi-land.com/myfiles/anim.jpg",
-      "background": 4283417632,
-      "foreground": 4278190080,
-      "name": "صنعتی ",
-      "starRating": 4.5,
-      "desc": "توضیحات",
-      "price": 10.99,
-      "foodType": "انیمیشن"
-    },
-    {
       "image": "http://www.bazi-land.com/myfiles/jeejow.png",
       "background": 4283417632,
       "foreground": 4278190080,
@@ -138,36 +118,6 @@
       "starRating": 3.5,
       "desc": "توضیحات",
       "price": 13,
-      "foodType": "اپلیکیشن"
-    },
-    {
-      "image": "http://www.bazi-land.com/myfiles/jeejow.png",
-      "background": 4292356626,
-      "foreground": 4294967295,
-      "name": "جیجو",
-      "starRating": 4.5,
-      "desc": "توضیحات",
-      "price": 12.99,
-      "foodType": "اپلیکیشن"
-    },
-    {
-      "image": "http://www.bazi-land.com/myfiles/GameMakersWorld.png",
-      "background": 4284294418,
-      "foreground": 4294967295,
-      "name": "دنیای بازیسازان",
-      "starRating": 4.5,
-      "desc": "توضیحات",
-      "price": 9.99,
-      "foodType": "اپلیکیشن"
-    },
-    {
-      "image": "http://www.bazi-land.com/myfiles/jeejow.png",
-      "background": 4292729816,
-      "foreground": 4278190080,
-      "name": "جیجو",
-      "starRating": 4.5,
-      "desc": "توضیحات",
-      "price": 12.99,
       "foodType": "اپلیکیشن"
     },
     {

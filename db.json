@@ -8,7 +8,7 @@
       "starRating": 4.5,
       "desc": "توضیحات",
       "price": 13,
-      "foodType": "Pizza"
+      "foodType": "بازی"
     },
     {
       "image": "http://www.bazi-land.com/myfiles/Cartoors.png",
@@ -18,7 +18,7 @@
       "starRating": 4.5,
       "desc": "توضیحات",
       "price": 12.99,
-      "foodType": "Pizza"
+      "foodType": "بازی"
     },
     {
       "image": "http://www.bazi-land.com/myfiles/ANTITANK.png",
@@ -28,7 +28,7 @@
       "starRating": 4.5,
       "desc": "توضیحات",
       "price": 12.99,
-      "foodType": "Pizza"
+      "foodType": "بازی"
     },
     {
       "image": "http://www.bazi-land.com/myfiles/com.GilamardCompany.Circles_512x512.png",
@@ -38,7 +38,7 @@
       "starRating": 4.5,
       "desc": "توضیحات",
       "price": 12.99,
-      "foodType": "Pizza"
+      "foodType": "بازی"
     },
     {
       "image": "http://www.bazi-land.com/myfiles/sb.png",
@@ -48,7 +48,7 @@
       "starRating": 4.5,
       "desc": "توضیحات",
       "price": 12.99,
-      "foodType": "Pizza"
+      "foodType": "بازی"
     },
     {
       "image": "http://www.bazi-land.com/myfiles/tg.png",
@@ -58,7 +58,7 @@
       "starRating": 4.5,
       "desc": "توضیحات",
       "price": 11.99,
-      "foodType": "Pizza"
+      "foodType": "بازی"
     },
     {
       "image": "http://www.bazi-land.com/myfiles/pv.png",
@@ -68,7 +68,7 @@
       "starRating": 4.5,
       "desc": "توضیحات",
       "price": 12.99,
-      "foodType": "Pizza"
+      "foodType": "بازی"
     },
     {
       "image": "http://www.bazi-land.com/myfiles/bl.png",
@@ -78,7 +78,7 @@
       "starRating": 4.5,
       "desc": "توضیحات",
       "price": 9.99,
-      "foodType": "Pizza"
+      "foodType": "بازی"
     },
     {
       "image": "http://www.bazi-land.com/myfiles/kang.png",
@@ -88,7 +88,7 @@
       "starRating": 4.5,
       "desc": "توضیحات",
       "price": 10.99,
-      "foodType": "Pizza"
+      "foodType": "بازی"
     },
     {
       "image": "http://www.bazi-land.com/myfiles/jeejow.png",
@@ -98,7 +98,7 @@
       "starRating": 4.5,
       "desc": "توضیحات",
       "price": 10.99,
-      "foodType": "Burger"
+      "foodType": "اپلیکیشن"
     },
     {
       "image": "http://www.bazi-land.com/myfiles/GameMakersWorld.png",
@@ -108,7 +108,7 @@
       "starRating": 3.5,
       "desc": "توضیحات",
       "price": 13,
-      "foodType": "Burger"
+      "foodType": "اپلیکیشن"
     },
     {
       "image": "http://www.bazi-land.com/myfiles/jeejow.png",
@@ -118,7 +118,7 @@
       "starRating": 4.5,
       "desc": "توضیحات",
       "price": 12.99,
-      "foodType": "Burger"
+      "foodType": "اپلیکیشن"
     },
     {
       "image": "http://www.bazi-land.com/myfiles/GameMakersWorld.png",
@@ -128,7 +128,7 @@
       "starRating": 4.5,
       "desc": "توضیحات",
       "price": 9.99,
-      "foodType": "Burger"
+      "foodType": "اپلیکیشن"
     },
     {
       "image": "http://www.bazi-land.com/myfiles/jeejow.png",
@@ -138,7 +138,7 @@
       "starRating": 4.5,
       "desc": "توضیحات",
       "price": 12.99,
-      "foodType": "Burger"
+      "foodType": "اپلیکیشن"
     },
     {
       "image": "http://www.bazi-land.com/myfiles/logo.jpg",
@@ -148,7 +148,7 @@
       "starRating": 4.5,
       "desc": "http://gilamardcompany.ir/",
       "price": 13,
-      "foodType": "Sandwich"
+      "foodType": "سایت"
     },
     {
       "image": "http://www.bazi-land.com/myfiles/bl.png",
@@ -158,7 +158,7 @@
       "starRating": 4.5,
       "desc": "http://www.bazi-land.com/",
       "price": 11.99,
-      "foodType": "Sandwich"
+      "foodType": "سایت"
     },
     {
       "image": "http://www.bazi-land.com/myfiles/jeejow.png",
@@ -168,7 +168,7 @@
       "starRating": 4.5,
       "desc": "http://jeejow.ir/",
       "price": 8.99,
-      "foodType": "Sandwich"
+      "foodType": "سایت"
     },
     {
       "image": "http://www.bazi-land.com/myfiles/bl.png",
@@ -178,7 +178,7 @@
       "starRating": 4.5,
       "desc": "http://www.bazi-land.com/",
       "price": 10,
-      "foodType": "Sandwich"
+      "foodType": "سایت"
     }
   ]
 }
